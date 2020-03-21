@@ -1,10 +1,9 @@
-#
-#Name: Mojeed Kusimo
+# **Name:** Mojeed Kusimo
 
-##Email: mkusimo90@gmail.com
+## **Email:** mkusimo90@gmail.com
 
-##Slack Username: mojeedkusimo
+## **Slack Username:** mojeedkusimo
 
-##Tracks: Frontend, Backend, Coding
+## **Tracks:** Frontend, Backend, Coding
 
-##Courses: HTML, CSS, Javascript, and Node.js
+## **Courses:** HTML, CSS, Javascript, and Node.js
